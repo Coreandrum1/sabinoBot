@@ -1,0 +1,25 @@
+{
+  "name": "sabinobot",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coreandrum1/sabinoBot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Francisco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coreandrum1/sabinoBot/issues"
+  },
+  "homepage": "https://github.com/Coreandrum1/sabinoBot#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
